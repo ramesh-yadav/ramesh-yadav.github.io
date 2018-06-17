@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 2018-06-17 v0.0.3
+
+CACHE:
+/images/banner.jpg
+# /fonts/FontAwesome.otf
+# /fonts/fontawesome-webfont.eot
+# /fonts/fontawesome-webfont.svg
+# /fonts/fontawesome-webfont.ttf
+# /fonts/fontawesome-webfont.woff
+
+NETWORK:
+*

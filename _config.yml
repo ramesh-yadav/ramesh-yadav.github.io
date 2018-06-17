@@ -1,0 +1,38 @@
+# Site wide configuration
+
+title: Ramesh Yadav
+author: Ramesh Yadav
+email: ramesh_yadav@live.com
+description: "Angular(JS) outsourcing"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url:
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+highlighter: rouge
+markdown: kramdown
+# theme: minima
+permalink: /:categories/:title/
+gems:
+  - jekyll-sitemap
+  - octopress
+
+# social links
+twitter_username: 1_rameshy
+github_username:  ramesh-yadav
+
+# show_excerpts: true # set to false to remove excerpts on the homepage
+
+# Site owner
+owner:
+  name: Ramesh Yadav
+  web: https://github.com/ramesh-yadav
+  email: ramesh_yadav@live.com
+  twitter: 1_rameshy
+  bio: "Young, energetic, purposeful, always in touch with cutting edge technologies."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
