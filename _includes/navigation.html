@@ -6,6 +6,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
+        {{ site.data }}
+        {{ site.data.navigation }}
         {% for link in site.data.navigation %}
         {% if link.url contains 'http' %}
         {% assign domain = '' %}
