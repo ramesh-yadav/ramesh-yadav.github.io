@@ -37,4 +37,4 @@ owner:
   bio: "Young, energetic, purposeful, always in touch with cutting edge technologies."
   avatar: bio-photo.jpg # 160x160 px image for author byline
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
